@@ -1,0 +1,9 @@
+{
+  "asset_id": 3,
+  "name": "eheio",
+  "serial": "567a475fd77d1f2af1a90b4bc096e386f96681e4e24833f6c9523b8d124dce36",
+  "issued_at": "2025-04-29T16:25:16.161631+00:00",
+  "expires_at": "2025-04-30T16:45:16.124656+00:00",
+  "url": "https://ehei.ma",
+  "ip": null
+}
