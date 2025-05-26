@@ -1,7 +1,7 @@
 {
   "asset_id": 6,
   "name": "github",
-  "serial": "6b68b31c0962f5e058e105bfa4438bd2edf6ae621cba925b5e29d9bcf4cb4825",
+  "serial": "824d9e6d1b8b4f8e8638baef2f889d646f5b579aece5ec63fbb09c5cb23f63d9",
   "issued_at": "2025-05-26T16:58:50.695466+00:00",
   "expires_at": "2025-06-25T16:58:50.655347+00:00",
   "url": "https://kdnasrallah.github.io",
