@@ -1,0 +1,9 @@
+{
+  "asset_id": 1,
+  "name": "github",
+  "serial": "27c18cb128531e8109646939dae067ad6971820325217d2cf9c72944d236d916",
+  "issued_at": "2025-06-01T22:32:18.047518+00:00",
+  "expires_at": "2025-07-01T22:32:18.035667+00:00",
+  "url": "https://kdnasrallah.github.io",
+  "ip": null
+}
